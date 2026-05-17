@@ -31,17 +31,6 @@ Aqui estão as linguagens e ferramentas que utilizo e estou aprimorando no meu e
 
 ---
 
-### 📂 Organização deste Repositório (Desafio Acadêmico)
-
-Para cumprir as diretrizes de excelência em versionamento do meu desafio universitário, este repositório está subdividido de forma organizada:
-
-* **`./` (Raiz):** Contém o arquivo `index.html`, `style.css` e `main.js` do meu Portfólio Web, configurado ativamente no **GitHub Pages**.
-* **`projetos-academicos/`:** Espaço reservado para as práticas, laboratórios e códigos desenvolvidos nas disciplinas do CEUB.
-* **`projetos-pessoais/`:** Projetos independentes, scripts automatizados e testes de código autorais.
-* **`documentacao/`:** Slides de apresentação, relatórios complementares e mídias de suporte.
-
----
-
 ### 📫 Entre em Contato!
 
 Seja para networking, parcerias em projetos acadêmicos ou oportunidades profissionais, sinta-se à vontade para me chamar:
